@@ -1,4 +1,5 @@
-# Mnist_CNN_model_with_GUI_for_drawing_image
+# Predicting-Drawed-Number
+
 It has GUI made using tkinter to draw image and then that image is feed to a CNN model made using python tensorflow and the ans is showed to user
 
 to run requirements :
